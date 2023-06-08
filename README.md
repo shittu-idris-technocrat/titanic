@@ -13,7 +13,9 @@ The dataset was filled with intriguing information about passengers aboard the i
 3) Age group: The age range of passengers on the ship varied from the youngest individual at 0.17 years old to the oldest at 76 years old. This indicates the presence of infants onboard. Additionally, the dataset contains some missing age values. To address this, I utilized the median as a substitute for the missing data, given that the available data is grouped. After performing data cleaning, it became apparent that certain age categories had a higher likelihood of survival, suggesting potential prioritization of specific passenger groups during the evacuation process. Notably, the adult age group exhibited the highest survival rate, followed by the youth.
 
 4) Survival: Surprisingly, all the male passengers onboard perished, while all the female passengers survived. Due to limitations in the available data, we lack detailed insights into the reasons behind this discrepancy. It is possible that the rescue team prioritized the evacuation of females, possibly out of respect for older males onboard, or there may have been equipment or protocols in place that favored female passengers. This observation reflects societal norms and the historical notion of prioritizing the safety of women first, with men assuming the responsibility of protecting them.
-Recommendation
+
+**Recommendation**
+
 Gender Equality in Evacuation: Based on the disparity in survival rates between male and female passengers, it is recommended to ensure gender equality in evacuation protocols and procedures. Efforts should be made to prioritize the safety of all passengers regardless of gender.
 
 Focus on Vulnerable Age Groups: Given the higher survival rate of children, it is important to prioritize the safety and well-being of vulnerable age groups during evacuations. Special attention should be given to providing appropriate assistance and support to children, the elderly, and individuals with special needs.
